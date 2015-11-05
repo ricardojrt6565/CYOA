@@ -1,3 +1,3 @@
 # [Start Over Here!](home.md)
 
-Made by [Ricardo](https://github.com/ricardojrt6565), [Luis](#), and [Gabriel](#)
+Made by [Ricardo](https://github.com/ricardojrt6565), [Luis](https://github.com/luism6058), and [Gabriel](#)
