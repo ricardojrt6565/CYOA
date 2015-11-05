@@ -8,4 +8,4 @@ Made by [Ricardo](https://github.com/ricardojrt6565), [Luis](https://github.com/
 We wanted to practice our skills with Git and Markdown and create our own adventure. The day we were assigned the project,
 was a day before Halloween so we decided that we should create a creative story based on the holiday of Halloween.
 
-[blueprints](https://docs.google.com/a/hstat.org/drawings/d/18RaNL7hMWGPb5GOvaxn8TRfeCjmwd_KC6aBfnmJLFXw/edit?usp=sharing)
+[Blueprints](https://docs.google.com/a/hstat.org/drawings/d/18RaNL7hMWGPb5GOvaxn8TRfeCjmwd_KC6aBfnmJLFXw/edit?usp=sharing)
